@@ -13,4 +13,4 @@ python 3.8.2
 
 ## 参考
 
-[u++の備忘録](https://upura.hatenablog.com/archive)の回答
+[「言語処理100本ノック 2020」をPythonで解く - u++の備忘録](https://upura.hatenablog.com/entry/2020/04/14/024948)
